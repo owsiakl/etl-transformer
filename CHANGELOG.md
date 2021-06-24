@@ -1,7 +1,7 @@
 ## [Unreleased] - 2021-06-24
 
 ### Added
-- [#54](https://github.com/flow-php/etl-transformer/pull/54) - **StringContactTransformer** - [@norberttech](https://github.com/norberttech)
+- [#54](https://github.com/flow-php/etl-transformer/pull/54) - **StringConcatTransformer** - [@norberttech](https://github.com/norberttech)
 - [#53](https://github.com/flow-php/etl-transformer/pull/53) - **ArrayAccessorTransformer** - [@norberttech](https://github.com/norberttech)
 - [#51](https://github.com/flow-php/etl-transformer/pull/51) - **ObjectMethodTransformer** - [@norberttech](https://github.com/norberttech)
 - [#48](https://github.com/flow-php/etl-transformer/pull/48) - **EntryExists filter for FilterRowsTransformer** - [@norberttech](https://github.com/norberttech)
